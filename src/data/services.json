@@ -1,0 +1,59 @@
+{
+    "refresh_time": 15,
+    "services": [
+        {
+            "name": "accounts"
+        },
+        {
+            "name": "assets"
+        },
+        {
+            "name": "customers"
+        },
+        {
+            "name": "datapoints"
+        },
+        {
+            "name": "devices"
+        },
+        {
+            "name": "documents"
+        },
+        {
+            "name": "forms"
+        },
+        {
+            "name": "invites"
+        },
+        {
+            "name": "media"
+        },
+        {
+            "name": "messages"
+        },
+        {
+            "name": "namespaces"
+        },
+        {
+            "name": "orders"
+        },
+        {
+            "name": "patients"
+        },
+        {
+            "name": "relationships"
+        },
+        {
+            "name": "rules"
+        },
+        {
+            "name": "templates"
+        },
+        {
+            "name": "users"
+        },
+        {
+            "name": "workflows"
+        }
+    ]
+}
