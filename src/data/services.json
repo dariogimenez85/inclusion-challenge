@@ -1,5 +1,5 @@
 {
-    "refresh_time": 15,
+    "refresh_time": 15000,
     "services": [
         {
             "name": "accounts"
