@@ -24,7 +24,7 @@ Then you should browse to the local url
 ```
 http://localhost:5173/
 ```
-There is a json file to change the refresh timer delay
+There is a json file to change the refresh timer 
 ```
-src/data/
+src/data/services.json
 ```
