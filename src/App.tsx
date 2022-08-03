@@ -1,17 +1,15 @@
-import { useEffect } from 'react';
-import data from './data/services.json';
+import Grid from './components/Grid';
+import Header from './ui/header';
 
 const App = () => {
-
-  useEffect(() => {
-
-  }, [])
-
   return (
-    <div className="container">
 
-    </div>
-  )
+    <>
+      <Header />
+      <Grid />
+    </>
+
+  );
 }
 
 export default App
