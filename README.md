@@ -1,7 +1,7 @@
 # API Status Dashboard
-This is a ReactJS (typescript) project created for the *Inclusion Challenge*.
+This is a ReactJS (typescript) project created for the *Inclusion Code Challenge*.
 
-If you want to check this out enter to te following link:
+If you want to check this out launch to the following link:
 
 https://dariogimenez.com/challenge/
 
@@ -23,4 +23,8 @@ npm run dev
 Then you should browse to the local url
 ```
 http://localhost:5173/
+```
+There is a json file to change the refresh timer delay
+```
+src/data/
 ```
